@@ -11,6 +11,21 @@ author: John Doe
 language: zh-CN
 timezone: ''
 
+aplayer:
+  meting: true
+
+  # Artitalk
+  # see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: 6mcXCofTLTR8m9n1ynz75ejG-MdYXbMMI
+  appKey: z3Id2Yk39JkFc83vTAXAKOsJ
+  path:
+  js:
+  option:
+  front_matter:
+
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
