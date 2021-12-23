@@ -36,7 +36,7 @@ if (screen.width >= 768) {
 			//apiPath: "https://live2d.fghrsh.net/api/",
 			//cdnPath: "https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/"
 			//cdnPath: "https://unpkg.zhimg.com/akilar-live2dapi@latest/"
-			apiPath: "https://github.com/zhangxiaotongbu/live2d_api/tree/master"
+			apiPath: "/live2d-widget/api/"
 		});
 	});
 }
